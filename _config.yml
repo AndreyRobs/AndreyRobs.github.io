@@ -6,7 +6,7 @@
 name: Andrey
 
 # Short bio or description (displayed in the header)
-description: Web para aprender o explicar temas sobre IA, Robotica y demas tecnologias.
+description: Sitio para aprender o explicar temas sobre IA, Robotica y demas tecnologias.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i11c.3djuegos.com/juegos/5974/syndicate__2010_/fotos/ficha/syndicate__2010_-1779758.jpg
@@ -30,6 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  telegram: @Matriux
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
