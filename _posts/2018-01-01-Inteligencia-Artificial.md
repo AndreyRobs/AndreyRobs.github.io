@@ -1,7 +1,10 @@
-Inteligencia Artificial
+---
+layout: post
+title: Inteligencia Artificial
+---
 
-El campo de la IA va mas all·, no solo intenta comprender, si no que tambiÈn se esfuerza en construir entidades inteligentes.
-Inteligencia es racionalidad, un sistema es racional si hace lo correcto en funciÛn de su conocimiento.
+El campo de la IA va mas all√°, no solo intenta comprender, si no que tambi√©n se esfuerza en construir entidades inteligentes.
+Inteligencia es racionalidad, un sistema es racional si hace lo correcto en funci√≥n de su conocimiento.
 
 Que es la inteligencia artificial?
 
@@ -19,11 +22,11 @@ El modelo es el ser humano, su objetivo es construir un sistema que pase por hum
 
 La prueba de Turing requiere de ciertas capacidades, el computador debe contar con:
 -Procesamiento de lenguaje natural: que le permita comunicarse satisfactoriamente en ingles.
--RepresentaciÛn del conocimiento: para almacenar lo que se conoce o siente.
--Razonamiento autom·tico: para utilizar la informaciÛn almacenada para responder a preguntas y extraer nuevas conclusiones.
--Aprendizaje autom·tico: para adaptarse a nuevas circunstancias y para detectar y extrapolar patrones.
+-Representaci√≥n del conocimiento: para almacenar lo que se conoce o siente.
+-Razonamiento autom√°tico: para utilizar la informaci√≥n almacenada para responder a preguntas y extraer nuevas conclusiones.
+-Aprendizaje autom√°tico: para adaptarse a nuevas circunstancias y para detectar y extrapolar patrones.
 
-La prueba global de Turing incluye evaluar la capacidad de percepciÛn el evaluado, para superar la prueba global de Turing, el computador debe estar dotado de: visiÛn por computadora para percibir objetos y robÛtica para manipular o mover objetos.
+La prueba global de Turing incluye evaluar la capacidad de percepci√≥n el evaluado, para superar la prueba global de Turing, el computador debe estar dotado de: visi√≥n por computadora para percibir objetos y rob√≥tica para manipular o mover objetos.
 
 No es objetivo primordial de la IA pasar la prueba.
 
@@ -50,11 +53,3 @@ Juegos de ordenador
 Aparatos electronicos
 Interfaces inteligentes
 Sistemas de diagnostico
-
--------------------------
-
-Fundamentos de la Inteligencia Artificial
-
-La IA es el estudio de agentes inteligentes que perciben el etorno y llevan a cabo acciones.
-
-
